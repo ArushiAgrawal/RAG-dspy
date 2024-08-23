@@ -1,0 +1,44 @@
+{
+    "examples": [
+        {
+            "question": "What is GST?",
+            "answer": "GST stands for Goods and Services Tax, which is a comprehensive tax levied on the supply of goods and services in India."
+        },
+        {
+            "question": "When was GST implemented in India?",
+            "answer": "GST was implemented in India on July 1, 2017."
+        },
+        {
+            "question": "Who will pay GST?",
+            "answer": " GST is generally paid by the supplier, i.e. the one who makes the supply after collecting it from the recipient. The supplier collects GST from the recipient of the supply as part of the consideration. However, in a few exceptional cases, the recipient, would be liable to pay GST to the Government on reverse charge basis."
+        },
+        {
+            "question": "Which constitutional amendment facilitated the introduction of GST?",
+            "answer": "The 101st Constitutional Amendment Act facilitated the introduction of GST in India."
+        },
+        {
+            "question": "What is the rate of tax under Composition levy for a manufacturer?",
+            "answer": "Composition rate for manufacturers is 1% (0.5% CGST and 0.5% SGST) of the turnover."
+        },
+        {
+            "question": "Who are eligible to take Input Tax Credit?",
+            "answer": "Every registered person shall, subject to such conditions and restrictions prescribed under Section 49, be entitled to take credit of input tax charged on any supply of goods or services or both which are used or intended to be used in the course or furtherance of his business."
+        },
+        {
+            "question": "What is the Reverse Charge Mechanism (RCM)?",
+            "answer": "Under the Reverse Charge Mechanism (RCM), the recipient of goods or services is liable to pay GST instead of the supplier."
+        },
+        {
+            "question": "What are the two threshold limits of registration under GST with effect from 2019?",
+            "answer": "The two threshold limits for exemption from registration and payment of GST for the suppliers of goods are ₹40 lakhs and ₹20 lakhs. States would have an option to decide about one of the limits within a week’s time."
+        },
+        {
+            "question": "What does the section 26 og GST Act talk about?",
+            "answer": "Section 26 of the CGST Act, specified that the grant of registration or the Unique Identity Number under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act shall be deemed to be a grant of registration or the Unique Identity Number, provided the application for registration or Unique Identity Number has been rejected under within 30 days in terms of Section 25(10) of the CGST Act."
+        },
+        {
+            "question": "Is Aadhaar Enrolment ID slip required for e-KYC?",
+            "answer": "Yes"
+        }
+    ]
+}

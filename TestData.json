@@ -1,0 +1,32 @@
+{
+    "examples": [
+        {
+            "question": "What is MSME?",
+            "answer": "MSME stands for Micro, Small and Medium Enterprises"
+        },
+        {
+            "question": "What are the benefits to MSMEs under GST?",
+            "answer": "The Micro, Small and Medium Enterprises have been accorded with lot of benefits in terms of compliance reliefs given in the form of threshold exemptions, Composition levy scheme, quarterly filing of the GST returns to mention a few. While doing so, it has also been kept in mind that they do not become uncompetitive even as they are given all the benefits of GST."
+        },
+        {
+            "question": "What is the role of the GST Network (GSTN)?",
+            "answer": "GSTN would provide three front end services to the taxpayers namely registration, payment and return. It would be developing back-end IT modules for 27 States who have opted for the same."
+        },
+        {
+            "question": "What is the late fees per day for not filing Anual GST returns?",
+            "answer": "The penalty for not filing GST returns is ₹100 per day for CGST and ₹100 per day for SGST"
+        },
+        {
+            "question": "What is the GST compensation cess?",
+            "answer": "GST compensation cess is levied on certain goods to compensate states for revenue loss due to the implementation of GST."
+        },
+        {
+            "question": "What are the components of GST?",
+            "answer": "The components of GST are Central GST (CGST), State GST (SGST), and Integrated GST (IGST)."
+        },
+        {
+            "question": "What is a non-resident taxable person under GST?",
+            "answer": "A non-resident taxable person is someone who occasionally supplies goods or services in India without having a fixed place of business and is liable to pay GST."
+        }
+    ]
+}
