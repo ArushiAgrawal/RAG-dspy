@@ -8,7 +8,7 @@ This repository contains a Vanilla Retrieval-Augmented Generation (RAG) model im
 This project is aimed at providing a basic understanding of how a RAG model works and how it can be implemented using the DSPy library.
 
 ### Structure
-rag_dspy.ipynb : Jupyter notebook containing the RAG code 
+RAG_DSPy.ipynb : Jupyter notebook containing the RAG code 
 
 vectors.npy : Embeddings of the GST document
 
